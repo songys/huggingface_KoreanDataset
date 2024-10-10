@@ -3,6 +3,7 @@
 - 두 번 이상 다운로드 받은 데이터에 한함
 - 언어 설정이나 관련 내용 등은 모두 huggingface 표기에 따르고 관련 내용이 없는 경우 none으로 표시
 - 관련 오류는 이슈를 이용해 주세요.
+- 스프레드 시트 형태로 정리한 내용은 다음 링크 : https://docs.google.com/spreadsheets/d/1nH1mxnosD1c_Oy9avamHRFS5GMHNBVlPD4fjOOdUwEg/edit?usp=sharing
 
 
 | No | id | author | downloads | likes | task_ids | language | multilinguality | library | format | arxiv | source_datasets | license | size_categories | task_categories |
